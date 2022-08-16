@@ -1,4 +1,12 @@
-### Sou a Marina Rosa e aqui está um pouco de minhas atividades no GitHub ↴  
+
+## Dev Marina Rosa :computer:
+:books: Faço Análise e desenvolvimeno de sistemas na UNINABUCO
+ 
+:coffee: Cursando formação Java FullStack JR. na Generation Brasil
+
+:octocat: Estudando na Alura Cursos
+
+### Atividades no GitHub ↴  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narinsss&show_icons=true&theme=dracula)
 
