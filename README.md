@@ -1,10 +1,13 @@
 
 ## Dev Marina Rosa :computer:
-:books: Faço Análise e desenvolvimeno de sistemas na UNINABUCO
- 
-:coffee: Cursando formação Java FullStack JR. na Generation Brasil
+:books: Faço Análise e desenvolvimeno de sistemas
+
+:coffee: Formada como Desenvolvedora Java FullStack pela Generation Brasil
 
 :octocat: Estudando na Alura Cursos
+
+:computer: Analista de soluções na Capgemini
+
 
 ### Atividades no GitHub ↴  
 
