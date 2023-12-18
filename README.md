@@ -8,11 +8,6 @@
 
 :computer: Analista de soluções na Capgemini
 
-
-### Atividades no GitHub ↴  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narinsss&show_icons=true&theme=dracula)
-
 ### Linguagens ↴ 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narinsss&layout=compact)
