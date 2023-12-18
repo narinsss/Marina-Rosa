@@ -1,10 +1,10 @@
 
 ## Dev Marina Rosa :computer:
-:books: Faço Análise e desenvolvimeno de sistemas
+:books: Faço Ciência da Computação
 
 :coffee: Formada como Desenvolvedora Java FullStack pela Generation Brasil
 
-:octocat: Estudando na Alura Cursos
+:octocat: Estudando para certf SA - Pega Academy
 
 :computer: Analista de soluções na Capgemini
 
